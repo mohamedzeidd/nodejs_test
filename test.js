@@ -1,2 +1,6 @@
-console.log("test github");
-console.log("test github 4 ");
+function addTwoNumbers(a, b) {
+  console.log(a + b);
+}
+
+
+
